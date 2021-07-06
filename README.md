@@ -1,6 +1,6 @@
-### Hi there 👋  I'm Cristian
-- 🔭 I’m currently working on Electronics, IoT, Software, Machine Learning, Data Science.
-- 🌱 I’m currently learning FPGA, Digital Design, and Neural Networks.
-- 👯 I’m looking to collaborate on climate change, medicine, and sustentability.
-- 💬 Ask me about Electronics, Systems, Integration, Machine-Learning, Embedded-Systems, Computer-Vision.
+### Hi there, 👋 I'm Cristian
+- 🔭 I’m currently working on Electronics, IoT, and Software.
+- 🌱 I’m currently learning Machine Learning and Data Science.
+- 👯 I’m looking to collaborate on Data Science, Machine Learning, climate change, medicine, and sustentability.
+- 💬 Ask me about Electronics, Software, Machine Learning, Embedded Systems, Computer Vision.
 - ⚡ Fun fact: The avatar is the character Tintin from The Adventures of Tintin comic.
