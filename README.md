@@ -17,4 +17,4 @@ modern_cpp: A course to review modern C++. vscode and gnu Linux. Love the C++ co
 
 I can't share other projects, are private stuff, but if you like  if I could upload generic stuff related to machine learning, computer vision, and embedded systems.
 
-Contact me at linkedin/xtianhb, or myname dot my lastname at g**** dot com
+Contact me at linkedin/xtianhb.
