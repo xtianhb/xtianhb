@@ -41,6 +41,3 @@
 
 [linkedin]: https://www.linkedin.com/in/xtianhb
 [gmail]: mailto:cristian{.}belussi{at}gmail{.}com
-
-## 💻 Github Profile Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtianhb&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
