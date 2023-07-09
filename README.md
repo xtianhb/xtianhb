@@ -5,12 +5,14 @@
 - :telescope: I’m currently working on Computer Vision, Data Science, Software and Electronics.
 - :blue_book: I'm currently learning about Machine Learning and Software Engineering.
   
-### Repos summary
-
+### Repos summaryi
+* **aws_cdk** AWS Cloud Development Kit example
+* **pca** Advanced notes on principal component analysis and single value decomposition.
 * **modern_cpp**: Review of modern C++. vscode and gnu Linux.
 * **MeLi2019**: A Data Science competition about NLP and product categories for a market place.
 * **utn_tf**: Code snippet on CoLab to train an object detector for public talks about IA.
-* **MeLi2020**: Yet another Data Science competition for NLP and the market place.
+* **MeLi2020**: Data Science competition for NLP.
+* **MeLi2019**: Data Science competition for NLP.
 * **spark**: A course about spark, pyspark, and spark ML.
 * **sql**: Codes from a SQL (postgreSQL) course for Data Science.
 * **pvsim**: A basic pv simulator for a system charging and discharging, in Python.
