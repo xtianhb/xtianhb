@@ -1,7 +1,7 @@
 ## Hello there 👋 ! I'm Cristian Belussi (Xtian)
   
 ### About 
-- :robot: MSc. Electronics Engineer. Working as IoT Engineer at [Globant](https://www.forbes.com/companies/globant).
+- :robot: MSc. Electronics Engineer. Working as Machine Learning Engineer at [Globant](https://www.forbes.com/companies/globant).
 - :telescope: I’m currently working on Computer Vision, Data Science, Software and Electronics.
 - :blue_book: I'm currently learning about Machine Learning and Software Engineering.
   
