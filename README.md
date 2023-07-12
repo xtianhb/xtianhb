@@ -17,22 +17,39 @@
 * **sql**: Codes from a SQL (postgreSQL) course for Data Science.
 * **pvsim**: A basic pv simulator for a system charging and discharging, in Python.
   
-### 🛠  Technologies & Languages
+### 🛠  Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?&logo=docker)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&logo=kubernetes)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?&logo=rancher)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws)
+
 ![C](https://img.shields.io/badge/C-00599C?&logo=c)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-FFD43B?&logo=python)
+![BASH](https://img.shields.io/badge/BASH-00599C?&logo=bash)
+
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?&logo=OpenCV)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?&logo=pandas)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?&logo=PyTorch)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&logo=TensorFlow)
 ![SKLearn](https://img.shields.io/badge/scikit_learn-F7931E?&logo=scikit-learn)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?&logo=docker)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&logo=kubernetes)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?&logo=rancher)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?&logo=amazonaws)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy)
+
+![REDIS](https://img.shields.io/badge/REDIS-CC0000.svg)
+![Cdk](https://img.shields.io/badge/AWS_CDK-CCCC00.svg)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-CCCC00.svg)
+![SQL](https://img.shields.io/badge/SQL-CCCC00.svg)
+
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi)
+![LabView](https://img.shields.io/badge/LabView-CCCC00)
+![AltiumDesigner](https://img.shields.io/badge/AltiumDesigner-CCCC00)
+![ARM](https://img.shields.io/badge/ARMCortex-CCCC00)
+
+
+
 
 ## 🙋‍♂️ Connect
 
