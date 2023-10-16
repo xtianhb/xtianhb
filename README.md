@@ -5,7 +5,7 @@
 - :telescope: I’m currently working on Computer Vision, Data Science, Software and Electronics.
 - :blue_book: I'm currently learning about Machine Learning and Software Engineering.
   
-### Repos summaryi
+### Repos summary
 * **aws_cdk** AWS Cloud Development Kit example
 * **pca** Advanced notes on principal component analysis and single value decomposition.
 * **modern_cpp**: Review of modern C++. vscode and gnu Linux.
